@@ -1,0 +1,92 @@
+ body{
+   background: url(images/shattered.png);
+ }
+input{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:13px;
+	height:30px;
+	width:250px;
+	margin-top:5px;
+	}
+#login-box {
+	width:400px;
+	height: 350px;
+	padding: 20px;
+	color: #ebebeb;
+	font: 12px Arial, Helvetica, sans-serif;
+	background:#333;
+	direction:rtl;
+	margin:0 auto;
+	border-radius:25px;
+		-webkit-box-shadow: 0 20px 1px #000;
+	-moz-box-shadow: 0 1px 20px #000;
+	box-shadow: 0 1px 20px #000;
+
+}
+.p-title-mid
+{
+		padding:0;
+	margin:0;
+	color: #FC0;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:15px ;
+	}
+
+#login-box img {
+	border:none;
+}
+#login-box a {
+	color:#FFF;
+	font-size:13px;
+	font-weight:bold;
+	font-family:Tahoma, Geneva, sans-serif;
+	text-decoration:none;
+}
+ h2 {
+	padding:0;
+	margin:0;
+	color: #FFF;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:15px ;
+	text-align:center;
+}
+
+
+#login-box-name {
+	float: left;
+	display:inline;
+	width:80px;
+	text-align: right;
+	padding: 14px 10px 0 0;
+	margin:0 0 7px 0;
+}
+
+#login-box-field {
+	float: left;
+	display:inline;
+	width:230px;
+	margin:0;
+	margin:0 0 7px 0;
+}
+
+
+.form-login  {
+	width: 205px;
+	padding: 10px 4px 6px 3px;
+	border: 1px solid #0d2c52;
+	background-color:#1e4f8a;
+	font-size: 16px;
+	color: #ebebeb;
+}
+
+
+.login-box-options  {
+	clear:both;
+	padding-left:87px;
+	font-size: 11px;
+}
+
+.login-box-options a {
+	color: #ebebeb;
+	font-size: 11px;
+}

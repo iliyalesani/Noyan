@@ -1,0 +1,93 @@
+
+
+#main_column_tr {
+line-height:30px;
+background-color:#036;
+color:#FC0;
+font-size:17px;
+	text-align:center;
+}
+#main_column_tr2 {
+line-height:35px;
+background-color:#b1d3b4;
+	text-align:center;
+	
+}
+#main_column_tr3 {
+line-height:35px;
+background-color:#b6d9d9;
+	text-align:center;
+}
+#main_column_tr2:hover {
+background-color:#FC6;
+}
+#main_column_tr3:hover {
+background-color:#FC6;
+}
+#main_column_tr2 a {
+font-size:15px;
+color:#00F;
+}
+#main_column_tr3 a {
+font-size:15px;
+color:#00F;
+}
+.formstyle1 
+{width:200px; font-size:18px; font-family:Tahoma, Geneva, sans-serif;}
+.formstyle2 
+{width:500px; font-size:18px; font-family:Tahoma, Geneva, sans-serif;}
+.formstyleb1
+{width:130px; background-color:#0C6; height:40px; font-size:20px; font-family:Tahoma, Geneva, sans-serif;}
+.formstyleb2
+{width:130px; background-color:#C33; height:40px; font-size:20px; font-family:Tahoma, Geneva, sans-serif;}
+.hovergallery a{
+	font-family:Tahoma, Geneva, sans-serif;
+	width:250;
+	font-size:large;
+	color:#000;
+	margin:35px ;
+	padding: 10PX;
+	padding-right:20px;
+	line-height:60px;
+	border:solid #FF0 2px;
+	position:relative;
+	color:#FFF;
+background:#906 url(list1.png) no-repeat right center;
+	
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+
+}
+
+.hovergallery a:hover{
+	color:#FF0;
+	text-decoration:none;
+		border:solid #FFF 2px;
+background:#09C url(list2.png) no-repeat right center;
+box-shadow:0px 0px 25px blue; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 25px blue; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 25px blue; /*Mozilla shadow version*/
+opacity: 1;}
+.mgbox
+{
+	border:solid #0F3 2px;
+	font-size:18px;
+	background-color:#FFF;
+	color:#000;
+	text-align:center;
+	padding:10px;	
+	
+	}
+.titrbox
+{
+	border:solid #000 2px;
+	font-size:18px;
+	background-color: #036;
+	color:#fff;
+	text-align:center;
+		padding:5px;	
+	
+	}
+
+/* end of footer */
